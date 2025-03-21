@@ -3,9 +3,13 @@
 
 ✨ <h2>Sobre o Projeto</h2>
 Durante a atividade, desenvolvi um modelo de banco de dados representando um sistema de E-commerce, definindo entidades, relacionamentos e cardinalidades essenciais para o funcionamento da aplicação. O modelo inclui:
-
+<br>
 ✅ Clientes e seus dados cadastrais.
+<br>
 ✅ Pedidos e seus respectivos itens.
+<br>
 ✅ Produtos com informações como categorias e preços.
+<br>
 ✅ Pagamentos vinculados a diferentes métodos de compra.
+<br>
 ✅ Entregas com rastreamento e status de envio.
